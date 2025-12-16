@@ -33,4 +33,3 @@ The dashboard allows users to interactively filter data to visualize how countri
 *   **Pivot Tables:** Used to aggregate data for dynamic reporting.
 *   **Data Visualization:** Custom Formatting, Area Charts, Line Charts, and Bar Graphs.
 *   **Slicers:** For interactive user filtering.
-*   **UI/UX Design:** Clean layout with a dark-themed, professional dashboard interface.
