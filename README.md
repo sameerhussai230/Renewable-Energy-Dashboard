@@ -1,4 +1,4 @@
-# 🌍 Renewable Energy Dashboard (Excel)
+# 🌍 Renewable Energy Dashboard 
 
 ![Dashboard Demo](https://github.com/sameerhussai230/Renewable-Energy-Dashboard/blob/main/Renewable_Energy_Dashboard.gif)
 
